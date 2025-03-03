@@ -4,7 +4,7 @@ Projects I worked on while attending the Business Intelligence Analysis TripleTe
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Report-Based Project |  report key findings, and write recommendations for Fresh Beats 🎶. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 0 | Report-Based Project | Report key findings, and write recommendations for Fresh Beats 🎶. |
+| 1 | NYC Airbnb Data | Help a client analyze the Manhattan vacation rental market |
+| 3 | Business Analytics Project | The project task was to build a conversion funnel, prepare data for cohort analysis, calculate retention rates. |
+| 4 | Superstore.xls | The project task was to identify the important centers of profit and loss for the superstore, identify the 3 best combinations of states and month of the year to advertise in, see if some products have abnormal rates of being returned to the store |
